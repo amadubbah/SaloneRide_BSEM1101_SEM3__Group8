@@ -1,0 +1,14 @@
+# Dart / Flutter build files
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
